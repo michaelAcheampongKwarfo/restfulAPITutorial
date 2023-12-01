@@ -1,0 +1,16 @@
+{
+  "name": "restful_api",
+  "version": "1.0.0",
+  "description": "rest api tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "mongoose": "^8.0.2"
+  }
+}
